@@ -97,7 +97,7 @@ $> sh run_evaluation_synapse.sh
 You select the options, `couinaud`.  
   
 4. Calculation metrics
-Please see our [jupyter notebook](#).  
+Please see our [jupyter notebook](https://github.com/AI-Medical-Vision/GUNETR_pplus_MSD_Couinaud/blob/main/Couidnuad_metric.ipynb).  
 We implemented all of metric classes.  
 > You can control post-processing option through `flag_post = True`.
   
