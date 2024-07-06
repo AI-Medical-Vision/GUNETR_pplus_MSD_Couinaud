@@ -72,8 +72,8 @@ GUNETR_pplus_LiTS
 │           ├── unetr_pp_trainer_synapse__unetr_pp_Plansv2.1        
 │               ├── fold_4
 │                   ├── validation_raw
-│                   ├── model_best.model
-│                   └── model_best.model.pkl
+│                   ├── model_final_checkpoint.model
+│                   └── model_final_checkpoint.model.pkl
 ```
 Couinaud final chekcpoint: [link](https://drive.google.com/file/d/1KxiHo0tSBsaPG3pQK5o68YS1QpsxKpHl/view?usp=sharing).  
 
