@@ -61,7 +61,7 @@ MSD dataset: [link](http://medicaldecathlon.com/).
 > Our MSD-testset(50) is `1, 4, 9, 10, 11, 13, 15, 21, 27, 44, 50, 52, 53, 62, 66, 69, 71, 75, 82, 89, 91, 92, 101, 116, 117, 124, 136, 140, 147, 171, 179, 183, 213, 215, 229, 245, 265, 269, 275, 287, 305, 307, 359, 375, 377, 399, 425, 441, 445, 455`.  
   
 ## Make masking files
-Please see [whole_liver_segmentation](#).  
+Please see [whole_liver_segmentation](https://github.com/AI-Medical-Vision/GUNETR_pplus_MSD_Whole).  
   
 ## Model Checkpoint
 ```
@@ -79,9 +79,9 @@ Couinaud final chekcpoint: [link](https://drive.google.com/file/d/1KxiHo0tSBsaPG
 
 ---
 # Implementation
-![model](./images/masking.png)   
+![model](./images/whole.png)   
 1. Make masking files  
-Using [MSD Whole liver segmentation model](https://github.com/AI-Medical-Vision/GUNETR_pplus_MSD_Whole).  
+Using [MSD Whole liver segmentation model](https://github.com/AI-Medical-Vision/GUNETR_pplus_MSD_Whole/blob/main/MSD_masking.ipynb).  
   
 2. Make whole npy files
 ```bash
